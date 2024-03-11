@@ -1,0 +1,11 @@
+{
+  "name": "bank-kata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bank-kata-code.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
